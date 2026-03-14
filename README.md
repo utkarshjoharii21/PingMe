@@ -1,12 +1,19 @@
 # 🚀 PingMe – Real-Time Chat Application
 
+![PingMe Preview](frontend/public/screenshot-for-readme.png.png)
+## 🛠️ Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-web-tokens&logoColor=white)
+
 PingMe is a modern **full-stack real-time chat application** that allows users to connect, send messages instantly, and share images in a smooth and responsive interface.
 The project is built using **React, Node.js, Express, MongoDB, and Socket.io** to deliver fast and scalable real-time communication.
 
 ---
-<p align="center">
-  <img src="frontend/public/screenshot-for-readme.png.png" width="900"/>
-</p>
 
 ## ✨ Key Features
 
